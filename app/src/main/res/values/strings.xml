@@ -8,6 +8,8 @@
     <string name="action_delete">删除</string>
     <string name="action_update">修改</string>
     <string name="action_main">主菜单</string>
+    <string name="action_persearch">高级查找</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
